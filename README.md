@@ -14,7 +14,7 @@ Installation
 
 To run this application locally, follow these steps:
 
-   * Clone this repository to your local machine using git clone https://github.com/yourusername/WeatherAPIData.git
+   * Clone this repository to your local machine using git clone https://github.com/banusriprakash/Wheather_detection_using_api_call/tree/main
    * Open the project in your preferred Java IDE.
    * Run the WeatherAPIData.java file.
 
